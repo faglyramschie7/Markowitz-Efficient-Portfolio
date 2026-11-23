@@ -1,0 +1,61 @@
+Ticker,Business,Included,Status
+AAPL,Consumer technology,True,History available
+MSFT,Software,True,History available
+JNJ,Healthcare,True,History available
+PG,Household products,True,History available
+KO,Beverages,True,History available
+XOM,Integrated energy,True,History available
+CVX,Integrated energy,True,History available
+JPM,Banking,True,History available
+DUK,Utilities,True,History available
+NEM,Gold mining,True,History available
+GOLD,Gold mining,False,Excluded: GOLD ticker reassigned; intended issuer continuity not verified
+AEM,Gold mining,True,History available
+RGLD,Gold royalties,True,History available
+ED,Utilities,True,History available
+SO,Utilities,True,History available
+WMT,General retail,True,History available
+COST,Warehouse retail,True,History available
+LMT,Defense,True,History available
+NOC,Defense,True,History available
+RTX,Aerospace and defense,True,History available
+DAL,Air travel,True,History available
+UAL,Air travel,True,History available
+CCL,Cruise travel,True,History available
+MPC,Oil refining,True,History available
+VLO,Oil refining,True,History available
+OXY,Oil and gas production,True,History available
+EQT,Natural gas production,True,History available
+MRNA,Biotechnology,True,History available
+ZM,Communications software,True,History available
+PFE,Pharmaceuticals,True,History available
+CLX,Household products,True,History available
+GIS,Packaged food,True,History available
+HSY,Confectionery,True,History available
+DG,Discount retail,True,History available
+DLTR,Discount retail,True,History available
+T,Telecommunications,True,History available
+VZ,Telecommunications,True,History available
+NVDA,Semiconductors,True,History available
+AMD,Semiconductors,True,History available
+AVGO,Semiconductors,True,History available
+TXN,Semiconductors,True,History available
+IBM,IT services,True,History available
+ORCL,Enterprise software,True,History available
+GOOGL,Internet services,True,History available
+META,Internet services,True,History available
+AMZN,Online retail and cloud,True,History available
+TSLA,Electric vehicles,True,History available
+CAT,Construction equipment,True,History available
+DE,Agricultural equipment,True,History available
+UNP,Rail transport,True,History available
+UPS,Parcel delivery,True,History available
+WM,Waste services,True,History available
+NEE,Utilities,True,History available
+O,Real estate,True,History available
+BAC,Banking,True,History available
+V,Payment networks,True,History available
+UNH,Health insurance,True,History available
+ABBV,Pharmaceuticals,True,History available
+HD,Home improvement retail,True,History available
+MCD,Restaurants,True,History available
